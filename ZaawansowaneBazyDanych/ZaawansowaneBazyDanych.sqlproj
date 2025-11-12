@@ -222,7 +222,6 @@
     <Build Include="dbo\User Defined Types\Phone.sql" />
     <Build Include="Security\SalesLT.sql" />
     <Build Include="SalesLT\Sequences\SalesOrderNumber.sql" />
-    <Build Include="Zadania\lab-3.sql" />
     <Build Include="Student_123\Tables\ProduktyX.sql">
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
@@ -237,5 +236,8 @@
     </Build>
     <Build Include="Security\Student_123.sql" />
     <Build Include="Security\233208.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Zadania\lab-3.sql" />
   </ItemGroup>
 </Project>
