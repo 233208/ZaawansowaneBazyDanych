@@ -1,0 +1,2 @@
+﻿CREATE USER [CloudSA91dbf975] FOR LOGIN [CloudSA91dbf975];
+

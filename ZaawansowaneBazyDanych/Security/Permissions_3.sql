@@ -1,0 +1,5 @@
+﻿
+GO
+GRANT ALTER ANY USER TO [233208@student.uek.krakow.pl]
+    WITH GRANT OPTION;
+

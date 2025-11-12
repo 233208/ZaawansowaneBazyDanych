@@ -1,0 +1,16 @@
+﻿GRANT ALTER ANY USER TO [CloudSA91dbf975]
+    WITH GRANT OPTION;
+
+
+GO
+GRANT CONNECT TO [CloudSA91dbf975];
+
+
+GO
+GRANT ALTER ANY USER TO [233208@student.uek.krakow.pl]
+    WITH GRANT OPTION;
+
+
+GO
+GRANT CONNECT TO [233208@student.uek.krakow.pl];
+

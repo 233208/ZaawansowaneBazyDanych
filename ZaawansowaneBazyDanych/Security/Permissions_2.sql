@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CONNECT TO [CloudSA91dbf975];
+
