@@ -236,6 +236,12 @@
     </Build>
     <Build Include="Security\Student_123.sql" />
     <Build Include="Security\233208.sql" />
+    <Build Include="Zadania\lab-4.sql" />
+    <Build Include="Zadania\lab-5.sql" />
+    <Build Include="Zadania\lab-6.sql" />
+    <Build Include="Zadania\lab-7.sql" />
+    <Build Include="Zadania\lab-8.sql" />
+    <Build Include="Zadania\lab-9.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Zadania\lab-3.sql" />
